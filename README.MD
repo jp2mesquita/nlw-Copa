@@ -143,12 +143,17 @@ $ npm run start
 
 </br>
 
+<span id='aplicação-no-portfolio'></span>
+
+aplicação-no-portfolio
 ## 💼 Visite esta aplicação em meu portfólio
 =================
 
 Para acessar está aplicação em meu portfólio e ver outros projetos desenvolvidos por mim acesse o link:
 
-<a to='portfolio-thebrabus.vercel.app' target='_blank'>TheBrabus Portifolio<a/>
+<a href='https://portfolio-thebrabus.vercel.app' target='_blank'>
+  TheBrabus Portifolio 🔗
+</a>
 
 </br>
 </br>
